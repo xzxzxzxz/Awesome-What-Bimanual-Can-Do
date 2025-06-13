@@ -9,7 +9,8 @@
 <h5 align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-coming_soon-b31b1b.svg?logo=arXiv)](https://arxiv.org/) 
-[![Home Page](https://img.shields.io/badge/Project-Website-green.svg)](https://wbcdcompetition.github.io/)
+[![Home Page](https://img.shields.io/badge/Home-Website-green.svg)](https://wbcdcompetition.github.io/)
+[![LIVE](https://img.shields.io/badge/LIVE-Website-orange.svg)](https://www.wbcd.live/)
 [![X](https://img.shields.io/badge/@WBCDCompetition-black?logo=X)](https://x.com/WBCDCompetition) 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -71,19 +72,13 @@
     <strong><a href="https://2025.ieee-icra.org/competitions/#wbcd">The 1st What Bimanual Teleoperation and Learning from Demonstration Can Do (WBCD)</a></strong><br/>
     <code><em>🏆 Challenge</em></code> <code><em>ICRA 2025, Atlanta, USA</em></code> | <a href="https://wbcdcompetition.github.io/">Website</a><br/>
   </li>
-</ul>
-
-<ul>
   <li>
     <strong><a href="https://">The 1st What Bimanual Teleoperation and Learning from Demonstration Can Do (WBCD)</a></strong><br/>
     <code><em>🥂 Workshop</em></code> <code><em>TBD 2025</em></code> | <a href="https://wbcdcompetition.github.io/">Website</a><br/>
   </li>
-</ul>
-
-<ul>
   <li>
     <strong><a href="https://">The 2nd What Bimanual Teleoperation and Learning from Demonstration Can Do (WBCD)</a></strong><br/>
-    <code><em>🏆 Challenge</em></code> <code><em>TBD 2025</em></code> | <a href="https://wbcdcompetition.github.io/">Website</a><br/>
+    <code><em>🏆 Challenge</em></code> <code><em>TBD 2026</em></code> | <a href="https://wbcdcompetition.github.io/">Website</a><br/>
   </li>
 </ul>
 
@@ -101,7 +96,7 @@
 <h2 id="wbcd-technical">📑 4. WBCD - Technical Paper List</h2>
 <p>
   Includes accepted and arXiv technical papers on bimanual manipulation.<br/>
-  <strong>🚧 TODO:</strong> Currently listed in reverse chronological order by year; further categorization by algorithmic approach and end-effector type is in progress.
+  <strong>🚧 TODO:</strong> Currently listed in reverse chronological order by year; further categorization by <strong>algorithmic approach</strong> and <strong>end-effector</strong> type is in progress.
 </p>
 
 <h4>2025</h4>
@@ -259,90 +254,447 @@
     <code><em>Physical Intelligence</em></code> <code><em>02/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2501.14208">You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations</a></strong><br/>
+    <code><em>RSS 2025</em></code> <code><em>01/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2501.09747">FAST: Efficient Robot Action Tokenization</a></strong><br/>
+    <code><em>Physical Intelligence</em></code> <code><em>01/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2501.13507">Iterative Shaping of Multi-Particle Aggregates based on Action Trees and VLM</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>01/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2501.06919">Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing</a></strong><br/>
+    <code><em>HRI 2025</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2501.03606">VTAO-BiManip: Masked Visual-Tactile-Action Pre-training with Object Understanding for Bimanual Dexterous Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>01/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
+    <strong><a href="https://genesis-embodied-ai.github.io/">GENISIS: A generative world for general-purpose robotics & embodied AI learning. </a></strong><br/>
+    <code><em>GENISIS Team</em></code> <code><em>01/2025</em></code> | <a href="https://genesis-embodied-ai.github.io/">Website</a><br/>
+  </li>
+  <!-- <li>
     <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
-  </li>
+  </li> -->
+
 </ul>
 
 <h4>2024</h4>
-<!-- <ul>
+<ul>
   <li>
-    <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
-    <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2412.06779">AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>12/2024</em></code> | <a href="https://">Website</a><br/>
   </li>
-</ul> -->
+  <li>
+    <strong><a href="https://arxiv.org/abs/2412.02676">Planning-Guided Diffusion Policy Learning for Generalizable Contact-Rich Bimanual Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>12/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2412.13877">RoboMIND: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation</a></strong><br/>
+    <code><em>RSS 2025</em></code> <code><em>12/2024</em></code> | <a href="https://x-humanoid-robomind.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2411.15903">Bimanual Grasp Synthesis for Dexterous Robot Hands</a></strong><br/>
+    <code><em>RAL 2024</em></code> <code><em>11/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2411.13020">AsymDex: Asymmetry and Relative Coordinates for RL-based Bimanual Dexterity</a></strong><br/>
+    <code><em>CoRL 2024 WS</em></code> <code><em>11/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2411.01200">GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation</a></strong><br/>
+    <code><em>NeurIPS 2024</em></code> <code><em>11/2024</em></code> | <a href="https://garmentlab.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2411.09942">ALPHA-α and Bi-ACT Are All You Need: Importance of Position and Force Information/Control for Imitation Learning of Unimanual and Bimanual Robotic Manipulation with Low-Cost System</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>11/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2411.06542">Is Linear Feedback on Smoothed Dynamics Sufficient for Stabilizing Contact-Rich Plans?</a></strong><br/>
+    <code><em>ICRA 2025</em></code> <code><em>11/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2411.04549">Vision Language Models are In-Context Value Learners</a></strong><br/>
+    <code><em>ICLR 2025</em></code> <code><em>11/2024</em></code> | <a href="https://generative-value-learning.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2411.04005">Object-Centric Dexterous Manipulation from Human Motion Data</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>11/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">RoboCrowd: Scaling Robot Data Collection through Crowdsourcing</a></strong><br/>
+    <code><em>ICRA 2025</em></code> <code><em>11/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://www.pi.website/blog/pi0">π-0: A Vision-Language-Action Flow Model for General Robot Control</a></strong><br/>
+    <code><em>Physical Inteeligence</em></code> <code><em>10/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2410.10088">The Ingredients for Robotic Diffusion Transformers</a></strong><br/>
+    <code><em>ICRA 2024</em></code> <code><em>10/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2410.24221">EgoMimic: Scaling Imitation Learning via Egocentric Video</a></strong><br/>
+    <code><em>ICRA 2025</em></code> <code><em>10/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2410.24185">DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning</a></strong><br/>
+    <code><em>ICRA 2025</em></code> <code><em>10/2024</em></code> | <a href="https://dexmimicgen.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2410.24091">3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing</a></strong><br/>
+    <code><em>CoRL 2024</em></code> <code><em>10/2024</em></code> | <a href="https://binghao-huang.github.io/3D-ViTac/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2410.22355">Learning Goal-oriented Bimanual Dough Rolling Using Dynamic Heterogeneous Graph Based on Human Demonstration</a></strong><br/>
+    <code><em>ROBIO 2024</em></code> <code><em>10/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2410.13126">ALOHA Unleashed: A Simple Recipe for Robot Dexterity</a></strong><br/>
+    <code><em>CoRL 2024</em></code> <code><em>10/2024</em></code> | <a href="aloha-unleashed.github.io">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2410.07864">RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>10/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2410.02477">Learning Diverse Bimanual Dexterous Manipulation Skills from Human Demonstrations</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>10/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2409.18707">Discrete Policy: Learning Disentangled Action Space for Multi-Task Robotic Manipulation</a></strong><br/>
+    <code><em>ICRA 2025</em></code> <code><em>09/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2409.18121">Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction</a></strong><br/>
+    <code><em>CoRL 2024</em></code> <code><em>xx/2024</em></code> | <a href="https://robot-see-robot-do.github.io">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2409.17435">Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation</a></strong><br/>
+    <code><em>CoRL 2024</em></code> <code><em>09/2024</em></code> | <a href="https://soltanilara.github.io/av-aloha/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2409.16275">Generative Factor Chaining: Coordinated Manipulation with Diffusion-based Factor Graph</a></strong><br/>
+    <code><em>CoRL 2024</em></code> <code><em>09/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2409.15465">In the Wild Ungraspable Object Picking with Bimanual Nonprehensile Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>09/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2409.14698">Bimanual In-hand Manipulation using Dual Limit Surfaces</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>09/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2409.14411">Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulationper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>09/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2409.07914">InterACT: Inter-dependency Aware Action Chunking with Hierarchical Attention Transformers for Bimanual Manipulation</a></strong><br/>
+    <code><em>CoRL 2024</em></code> <code><em>09/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2409.01652">ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>09/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2309.14975">AirExo: Low-Cost Exoskeletons for Learning Whole-Arm Manipulation in the Wild</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>09/2024</em></code> | <a href="https://airexo.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2408.09058">Vision-assisted Avocado Harvesting with Aerial Bimanual Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>08/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2408.10899">All Robots in One: A New Standard and Unified Dataset for Versatile, General-Purpose Embodied Agents</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>08/2024</em></code> | <a href="https://imaei.github.io/project_pages/ario/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2407.01512">Open-TeleVision: Teleoperation with Immersive Active Visual Feedback</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>07/2024</em></code> | <a href="https://robot-tv.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2407.04152">VoxAct-B: Voxel-Based Acting and Stabilizing Policy for Bimanual Manipulation</a></strong><br/>
+    <code><em>CoRL 2024</em></code> <code><em>07/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2407.03162">Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>07/2024</em></code> | <a href="https://dingry.github.io/projects/bunny_visionpro.html">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2407.00278">PerAct2: Benchmarking and Learning for Robotic Bimanual Manipulation Tasks</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>07/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2406.14990">Learning Variable Compliance Control From a Few Demonstrations for Bimanual Robot with Haptic Feedback Teleoperation System</a></strong><br/>
+    <code><em>IROS 2024</em></code> <code><em>06/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2406.10093">BiKC: Keypose-Conditioned Consistency Policy for Bimanual Robotic Manipulation</a></strong><br/>
+    <code><em>WAFR 2024</em></code> <code><em>06/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2406.09953">DAG-Plan: Generating Directed Acyclic Dependency Graphs for Dual-Arm Cooperative Planning</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>06/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2405.18860">Empowering Embodied Manipulation: A Bimanual-Mobile Robot Manipulation Dataset for Household Tasks</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>05/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2405.06039">Bi-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Dexterous Manipulations</a></strong><br/>
+    <code><em>SMC 2024</em></code> <code><em>05/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2405.02292">ALOHA 2: An Enhanced Low-Cost Hardware for Bimanual Teleoperation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>05/2024</em></code> | <a href="https://aloha-2.github.io">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2405.03666">ScrewMimic: Bimanual Imitation from Human Videos with Screw Space Projection</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>05/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2405.06903">UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence</a></strong><br/>
+    <code><em>CVPR 2024</em></code> <code><em>05/2024</em></code> | <a href="https://warshallrho.github.io/unigarmentmanip">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2404.16823">HATO: Learning Visuotactile Skills with Two Multifingered Hands</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>04/2024</em></code> | <a href="https://toruowo.github.io/hato/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2404.13206">Wheelchair Maneuvering with a Single-Spherical-Wheeled Balancing Mobile Manipulator</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>04/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2404.03790">A Bimanual Teleoperation Framework for Light Duty Underwater Vehicle-Manipulator Systems</a></strong><br/>
+    <code><em>UR 2024</em></code> <code><em>04/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2404.02018">Large Language Models for Orchestrating Bimanual Robots</a></strong><br/>
+    <code><em>Humanoids 2024</em></code> <code><em>04/2024</em></code> | <a href="http://labor-agent.github.io">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2403.07788">DexCap: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>03/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2403.17249">Impact-Aware Bimanual Catching of Large-Momentum Objects</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>03/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2403.12685">Dynamic Manipulation of Deformable Objects using Imitation Learning with Adaptation to Hardware Constraints</a></strong><br/>
+    <code><em>IROS 2024</em></code> <code><em>03/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2403.10436">H-MaP: An Iterative and Hybrid Sequential Manipulation Planner</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>03/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2403.07870">OPEN TEACH: A Versatile Teleoperation System for Robotic Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>03/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2403.03270">Bi-KVIL: Keypoints-based Visual Imitation Learning of Bimanual Manipulation Tasks</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>03/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2403.02338">Twisting Lids Off with Two Hands</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>03/2024</em></code> | <a href="https://toruowo.github.io/bimanual-twist">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2402.18088">Bimanual Manipulation of Steady Hand Eye Robots with Adaptive Sclera Force Control: Cooperative vs. Teleoperation Strategies</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>02/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2402.10329">Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots</a></strong><br/>
+    <code><em>RSS 2024</em></code> <code><em>02/2024</em></code> | <a href="https://umi-gripper.github.io">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2401.16899">MAkEable: Memory-centered and Affordance-based Task Execution Framework for Transferable Mobile Manipulation Skills</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>01/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2401.11432">Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Neural Dynamics Model</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>01/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2401.02117">Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>01/2024</em></code> | <a href="https://mobile-aloha.github.io">Website</a><br/>
+  </li>
+  <!-- <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2024</em></code> | <a href="https://">Website</a><br/>
+  </li> -->
+
+</ul>
 
 <h4>2023</h4>
-<!-- <ul>
+<ul>
   <li>
-    <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
-    <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
-</ul> -->
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+
+</ul>
 
 <h4>2022</h4>
-<!-- <ul>
+<ul>
   <li>
-    <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
-    <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
-</ul> -->
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+
+  <!-- <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2024</em></code> | <a href="https://">Website</a><br/>
+  </li> -->
+</ul>
 
 <h4>2021</h4>
-<!-- <ul>
+<ul>
   <li>
-    <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
-    <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
   </li>
-</ul> -->
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
+  </li>
+
+  <!-- <li>
+    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2024</em></code> | <a href="https://">Website</a><br/>
+  </li> -->
+</ul>
 
 <hr/>
 
