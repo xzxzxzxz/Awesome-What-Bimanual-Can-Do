@@ -17,7 +17,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xzxzxzxz.wbcd)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) 
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+<!-- [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE) -->
 
 <strong>Media Coverage (CN): <a href="https://mp.weixin.qq.com/s/SqlE_TpMyzCj3Us1R3L4NA">甲子光年</a> | <a href="https://mp.weixin.qq.com/s/GwJiwAKvZb0K-uHy2_rzBQ">36氪</a> | <a href="https://mp.weixin.qq.com/s/H26K-brCRXqNVZ-BScoC-g">机器之心</a> | <a href="https://mp.weixin.qq.com/s/Y-9wZm2Rwr_gLEelUgV39A">量子位</a></strong>
 
