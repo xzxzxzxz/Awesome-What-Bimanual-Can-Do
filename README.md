@@ -536,125 +536,141 @@
 <h4>2023</h4>
 <ul>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2310.08864">Open X-Embodiment: Robotic Learning Datasets and RT-X Models</a></strong><br/>
+    <code><em>ICRA 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://robotics-transformer-x.github.io">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2309.13037">GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://wuphilipp.github.io/gello/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2309.08770">Constrained Bimanual Planning with Analytic Inverse Kinematics</a></strong><br/>
+    <code><em>ICRA 2024</em></code> <code><em>xx/2023</em></code> | <a href="https://cohnt.github.io/Bimanual-Web/index.html">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2309.07609">Learning Quasi-Static 3D Models of Markerless Deformable Linear Objects for Bimanual Robotic Manipulation</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2309.05197">Learning Sequential Acquisition Policies for Robot-Assisted Feeding</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2309.01087">Stabilize to Act: Learning to Coordinate for Bimanual Manipulation</a></strong><br/>
+    <code><em>CoRL 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2308.03479">Feasibility Retargeting for Multi-contact Teleoperation and Physical Interaction</a></strong><br/>
+    <code><em>ICRA 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2307.14326">Waypoint-Based Imitation Learning for Robotic Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://lucys0.github.io/awe/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2307.06423">Bi-Touch: Bimanual Tactile Manipulation with Sim-to-Real Deep Reinforcement Learning</a></strong><br/>
+    <code><em>RAL 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2307.05933">BiRP: Learning Robot Generalized Bimanual Coordination using Relative Parameterization Method on Human Demonstration</a></strong><br/>
+    <code><em>CDC 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2307.04619">Learning Fine Pinch-Grasp Skills using Tactile Sensing from A Few Real-world Demonstrations</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2306.14595">A Closed-Loop Bin Picking System for Entangled Wire Harnesses using Bimanual and Dynamic Manipulation</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2306.12649">Probabilistic Slide-support Manipulation Planning in Clutter</a></strong><br/>
+    <code><em>IROS 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2305.06341">Non-Euclidean Motion Planning with Graphs of Geodesically-Convex Sets</a></strong><br/>
+    <code><em>RSS 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://ggcs-anonymous-submission.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2305.04449">DeformerNet: Learning Bimanual Manipulation of 3D Deformable Objects</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2304.13705">Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://tonyzhaozh.github.io/aloha/">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2303.08975">HANDLOOM: Learned Tracing of One-Dimensional Objects for Inspection and Manipulation</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2302.12219">Certified Polyhedral Decompositions of Collision-Free Configuration Space</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2302.00741">Haptic Feedback of Tool Vibrations Facilitates Telerobotic Construction</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
-  <li>
+  <!-- <li>
     <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
-  </li>
+  </li> -->
 
 </ul>
 
 <h4>2022</h4>
 <ul>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2211.14652">Learning Bimanual Scooping Policies for Food Acquisition</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2211.12408">Bimanual Motor Strategies and Handedness Role During Human-Exoskeleton Haptic Interaction</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2209.14261">Focused Adaptation of Dynamics Models for Deformable Object Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://sites.google.com/view/focused-adaptation-dynamics/home">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2209.13850">Bimanual rope manipulation skill synthesis through context dependent correction policy learning from human demonstration</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2209.06074">Bimanual crop manipulation for human-inspired robotic harvesting</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2208.11845">Elly: A Real-Time Failure Recovery and Data Collection System for Robotic Manipulation</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2208.10552">SpeedFolding: Learning Efficient Bimanual Folding of Garments</a></strong><br/>
+    <code><em>IROS 2022</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2208.00596">A System for Imitation Learning of Contact-Rich Bimanual Manipulation Policies</a></strong><br/>
+    <code><em>IROS 2022</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2206.08686">Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
+    <strong><a href="https://arxiv.org/abs/2206.00528">Collaborative Bimanual Manipulation Using Optimal Motion Adaptation and Interaction Control</a></strong><br/>
+    <code><em>Robotics & Automation Magazine 2023</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2205.05960">Robot Cooking with Stir-fry: Bimanual Non-prehensile Manipulation of Semi-fluid Objects</a></strong><br/>
+    <code><em>RAL 2022</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <strong><a href="https://arxiv.org/abs/2205.03690">Finding and Optimizing Certified, Collision-Free Regions in Configuration Space for Robot Manipulators</a></strong><br/>
     <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
-  </li>
-  <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2203.08277">Bi-Manual Manipulation and Attachment via Sim-to-Real Reinforcement Learning</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>03/2022</em></code> | <a href="https://sites.google.com/view/bimanual-attachment">Website</a><br/>
   </li>
 
   <!-- <li>
@@ -666,28 +682,28 @@
 <h4>2021</h4>
 <ul>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2111.05623">FabricFlowNet: Bimanual Cloth Manipulation with a Flow-based Policy</a></strong><br/>
+    <code><em>CoRL 2021</em></code> <code><em>11/2021</em></code> | <a href="https://sites.google.com/view/fabricflownet">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2110.11652">Action Planning for Packing Long Linear Elastic Objects into Compact Boxes with Bimanual Robotic Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>10/2021</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2110.08962">Keypoint-Based Bimanual Shaping of Deformable Linear Objects under Environmental Constraints using Hierarchical Action Planning</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>10/2021</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2109.13772">NimbRo Avatar: Interactive Immersive Telepresence with Force-Feedback Telemanipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>09/2021</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2106.05907">DAIR: Disentangled Attention Intrinsic Regularization for Safe and Efficient Bimanual Manipulation</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>06/2021</em></code> | <a href="https://mehooz.github.io/bimanual-attention/">Website</a><br/>
   </li>
   <li>
-    <strong><a href="https://arxiv.org/abs/">Paper_Title</a></strong><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2021</em></code> | <a href="https://">Website</a><br/>
+    <strong><a href="https://arxiv.org/abs/2105.14764">Bimanual Shelf Picking Planner Based on Collapse Prediction</a></strong><br/>
+    <code><em>arXiv</em></code> <code><em>05/2021</em></code> | <a href="https://">Website</a><br/>
   </li>
 
   <!-- <li>
@@ -705,44 +721,44 @@
 </p>
 
 <h4>2025</h4>
-<ul>
+<!-- <ul>
   <li>
     <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
     <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
   </li>
-</ul>
+</ul> -->
 
 <h4>2024</h4>
-<ul>
+<!-- <ul>
   <li>
     <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
     <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
   </li>
-</ul>
+</ul> -->
 
 <h4>2023</h4>
-<ul>
+<!-- <ul>
   <li>
     <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
     <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
   </li>
-</ul>
+</ul> -->
 
 <h4>2022</h4>
-<ul>
+<!-- <ul>
   <li>
     <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
     <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
   </li>
-</ul>
+</ul> -->
 
 <h4>2021</h4>
-<ul>
+<!-- <ul>
   <li>
     <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
     <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
   </li>
-</ul>
+</ul> -->
 
 <hr/>
 
@@ -752,12 +768,13 @@
   <strong>🚧 TODO:</strong> Currently listed in reverse chronological order by year.
 </p>
 
-<ul>
+<h4>2025</h4>
+<!-- <ul>
   <li>
     <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
     <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
   </li>
-</ul>
+</ul> -->
 
 <hr/>
 
@@ -767,12 +784,13 @@
   <strong>🚧 TODO:</strong> Currently listed in reverse chronological order by year; further classification into lab prototypes vs. commercial/industrial products is in progress.
 </p>
 
-<ul>
+<h4>2025</h4>
+<!-- <ul>
   <li>
     <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
     <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
   </li>
-</ul>
+</ul> -->
 
 <hr/>
 
@@ -782,9 +800,10 @@
   <strong>🚧 TODO:</strong> TBD
 </p>
 
-<ul>
+<h4>2025</h4>
+<!-- <ul>
   <li>
     <strong><a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a></strong><br/>
     <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
   </li>
-</ul>
+</ul> -->
