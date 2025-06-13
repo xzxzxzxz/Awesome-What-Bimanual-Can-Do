@@ -143,7 +143,7 @@
   </li>
   <li>
     <a href="https://arxiv.org/abs/2505.11032">DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy</a><br/>
-    <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://wayrise.github.io/DexGarmentLab/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2505.07819">H3DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning</a><br/>
@@ -167,7 +167,7 @@
   </li>
   <li>
     <a href="https://arxiv.org/abs/2504.18904">ROBOVERSE: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning</a><br/>
-    <code><em>RSS 2025</em></code> <code><em>04/2025</em></code> | <a href="https://">Website</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>04/2025</em></code> | <a href="https://roboverseorg.github.io/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2504.17784">Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation</a><br/>
@@ -175,7 +175,7 @@
   </li>
   <li>
     <a href="https://arxiv.org/abs/2504.13059">RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins</a><br/>
-    <code><em>CVPR 2025</em></code> <code><em>04/2025</em></code> | <a href="https://">Website</a><br/>
+    <code><em>CVPR 2025</em></code> <code><em>04/2025</em></code> | <a href="https://robotwin-benchmark.github.io/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2503.20020">Gemini Robotics: Bringing AI into the Physical World</a><br/>
@@ -769,12 +769,32 @@
 </p>
 
 <h4>2025</h4>
-<!-- <ul>
+<ul>
   <li>
-    <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
-    <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
+    <a href="https://arxiv.org/abs/2505.11032">DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy</a><br/>
+    <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://wayrise.github.io/DexGarmentLab/">Website</a><br/>
   </li>
-</ul> -->
+  <li>
+    <a href="https://arxiv.org/abs/2504.18904">ROBOVERSE: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>04/2025</em></code> | <a href="https://roboverseorg.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2504.13059">RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins</a><br/>
+    <code><em>CVPR 2025</em></code> <code><em>04/2025</em></code> | <a href="https://robotwin-benchmark.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://genesis-embodied-ai.github.io/">GENISIS: A generative world for general-purpose robotics & embodied AI learning. </a><br/>
+    <code><em>GENISIS Team</em></code> <code><em>01/2025</em></code> | <a href="https://genesis-embodied-ai.github.io/">Website</a><br/>
+  </li>
+</ul>
+
+<h4>2024</h4>
+<ul>
+  <li>
+    <a href="https://arxiv.org/abs/2411.01200">GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation</a><br/>
+    <code><em>NeurIPS 2024</em></code> <code><em>11/2024</em></code> | <a href="https://garmentlab.github.io/">Website</a><br/>
+  </li>
+</ul>
 
 <hr/>
 
