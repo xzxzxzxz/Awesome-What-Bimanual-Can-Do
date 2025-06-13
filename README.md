@@ -102,7 +102,7 @@
 <h4>2025</h4>
 <ul>
   <li>
-    <strong><a href="https://arxiv.org/abs/2506.07339">Real-Time Execution of Action Chunking Flow Policies</a></strong><br/>
+    <a href="https://arxiv.org/abs/2506.07339">Real-Time Execution of Action Chunking Flow Policies</a><br/>
     <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://www.pi.website/research/real_time_chunking">Website</a><br/>
   </li>
   <li>
