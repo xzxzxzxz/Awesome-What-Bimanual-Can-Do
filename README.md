@@ -267,7 +267,7 @@
   </li>
   <li>
     <a href="https://arxiv.org/abs/2501.06919">Shake-VLA: Vision-Language-Action Model-Based System for Bimanual Robotic Manipulations and Liquid Mixing</a><br/>
-    <code><em>HRI 2025</em></code> <code><em>xx/2025</em></code> | <a href="https://">Website</a><br/>
+    <code><em>HRI 2025</em></code> <code><em>01/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2501.03606">VTAO-BiManip: Masked Visual-Tactile-Action Pre-training with Object Understanding for Bimanual Dexterous Manipulation</a><br/>
@@ -372,7 +372,7 @@
   </li>
   <li>
     <a href="https://arxiv.org/abs/2409.18121">Robot See Robot Do: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction</a><br/>
-    <code><em>CoRL 2024</em></code> <code><em>xx/2024</em></code> | <a href="https://robot-see-robot-do.github.io">Website</a><br/>
+    <code><em>CoRL 2024</em></code> <code><em>09/2024</em></code> | <a href="https://robot-see-robot-do.github.io">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2409.17435">Active Vision Might Be All You Need: Exploring Active Vision in Bimanual Robotic Manipulation</a><br/>
@@ -537,79 +537,79 @@
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2310.08864">Open X-Embodiment: Robotic Learning Datasets and RT-X Models</a><br/>
-    <code><em>ICRA 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://robotics-transformer-x.github.io">Website</a><br/>
+    <code><em>ICRA 2023</em></code> <code><em>10/2023</em></code> | <a href="https://robotics-transformer-x.github.io">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2309.13037">GELLO: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://wuphilipp.github.io/gello/">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2023</em></code> | <a href="https://wuphilipp.github.io/gello/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2309.08770">Constrained Bimanual Planning with Analytic Inverse Kinematics</a><br/>
-    <code><em>ICRA 2024</em></code> <code><em>xx/2023</em></code> | <a href="https://cohnt.github.io/Bimanual-Web/index.html">Website</a><br/>
+    <code><em>ICRA 2024</em></code> <code><em>09/2023</em></code> | <a href="https://cohnt.github.io/Bimanual-Web/index.html">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2309.07609">Learning Quasi-Static 3D Models of Markerless Deformable Linear Objects for Bimanual Robotic Manipulation</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2309.05197">Learning Sequential Acquisition Policies for Robot-Assisted Feeding</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2309.01087">Stabilize to Act: Learning to Coordinate for Bimanual Manipulation</a><br/>
-    <code><em>CoRL 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>CoRL 2023</em></code> <code><em>09/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2308.03479">Feasibility Retargeting for Multi-contact Teleoperation and Physical Interaction</a><br/>
-    <code><em>ICRA 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>ICRA 2023</em></code> <code><em>09/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2307.14326">Waypoint-Based Imitation Learning for Robotic Manipulation</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://lucys0.github.io/awe/">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2023</em></code> | <a href="https://lucys0.github.io/awe/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2307.06423">Bi-Touch: Bimanual Tactile Manipulation with Sim-to-Real Deep Reinforcement Learning</a><br/>
-    <code><em>RAL 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>RAL 2023</em></code> <code><em>07/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2307.05933">BiRP: Learning Robot Generalized Bimanual Coordination using Relative Parameterization Method on Human Demonstration</a><br/>
-    <code><em>CDC 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>CDC 2023</em></code> <code><em>07/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2307.04619">Learning Fine Pinch-Grasp Skills using Tactile Sensing from A Few Real-world Demonstrations</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2306.14595">A Closed-Loop Bin Picking System for Entangled Wire Harnesses using Bimanual and Dynamic Manipulation</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>06/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2306.12649">Probabilistic Slide-support Manipulation Planning in Clutter</a><br/>
-    <code><em>IROS 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>IROS 2023</em></code> <code><em>06/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2305.06341">Non-Euclidean Motion Planning with Graphs of Geodesically-Convex Sets</a><br/>
-    <code><em>RSS 2023</em></code> <code><em>xx/2023</em></code> | <a href="https://ggcs-anonymous-submission.github.io/">Website</a><br/>
+    <code><em>RSS 2023</em></code> <code><em>05/2023</em></code> | <a href="https://ggcs-anonymous-submission.github.io/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2305.04449">DeformerNet: Learning Bimanual Manipulation of 3D Deformable Objects</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>05/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2304.13705">Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://tonyzhaozh.github.io/aloha/">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>04/2023</em></code> | <a href="https://tonyzhaozh.github.io/aloha/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2303.08975">HANDLOOM: Learned Tracing of One-Dimensional Objects for Inspection and Manipulation</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>03/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2302.12219">Certified Polyhedral Decompositions of Collision-Free Configuration Space</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>02/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2302.00741">Haptic Feedback of Tool Vibrations Facilitates Telerobotic Construction</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>02/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <!-- <li>
     <a href="https://arxiv.org/abs/">Paper_Title</a><br/>
@@ -622,51 +622,51 @@
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2211.14652">Learning Bimanual Scooping Policies for Food Acquisition</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>11/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2211.12408">Bimanual Motor Strategies and Handedness Role During Human-Exoskeleton Haptic Interaction</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>11/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2209.14261">Focused Adaptation of Dynamics Models for Deformable Object Manipulation</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://sites.google.com/view/focused-adaptation-dynamics/home">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2022</em></code> | <a href="https://sites.google.com/view/focused-adaptation-dynamics/home">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2209.13850">Bimanual rope manipulation skill synthesis through context dependent correction policy learning from human demonstration</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2209.06074">Bimanual crop manipulation for human-inspired robotic harvesting</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2208.11845">Elly: A Real-Time Failure Recovery and Data Collection System for Robotic Manipulation</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>08/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2208.10552">SpeedFolding: Learning Efficient Bimanual Folding of Garments</a><br/>
-    <code><em>IROS 2022</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <code><em>IROS 2022</em></code> <code><em>08/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2208.00596">A System for Imitation Learning of Contact-Rich Bimanual Manipulation Policies</a><br/>
-    <code><em>IROS 2022</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <code><em>IROS 2022</em></code> <code><em>08/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2206.08686">Towards Human-Level Bimanual Dexterous Manipulation with Reinforcement Learning</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>06/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2206.00528">Collaborative Bimanual Manipulation Using Optimal Motion Adaptation and Interaction Control</a><br/>
-    <code><em>Robotics & Automation Magazine 2023</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <code><em>Robotics & Automation Magazine 2023</em></code> <code><em>06/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2205.05960">Robot Cooking with Stir-fry: Bimanual Non-prehensile Manipulation of Semi-fluid Objects</a><br/>
-    <code><em>RAL 2022</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <code><em>RAL 2022</em></code> <code><em>05/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2205.03690">Finding and Optimizing Certified, Collision-Free Regions in Configuration Space for Robot Manipulators</a><br/>
-    <code><em>arXiv</em></code> <code><em>xx/2022</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>05/2022</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2203.08277">Bi-Manual Manipulation and Attachment via Sim-to-Real Reinforcement Learning</a><br/>
