@@ -108,7 +108,8 @@
   <strong>🚧 TODO:</strong> Currently listed in reverse chronological order by year; further categorization by <strong>algorithmic approach</strong> and <strong>end-effector</strong> type is in progress.
 </p>
 
-<h4>2025</h4>
+<details open>
+  <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2506.07339">Real-Time Execution of Action Chunking Flow Policies</a><br/>
@@ -292,8 +293,10 @@
   </li> -->
 
 </ul>
+</details>
 
-<h4>2024</h4>
+<details open>
+  <summary style="font-size: 1.2em; font-weight: bold;">2024</summary>
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2412.06779">AnyBimanual: Transferring Unimanual Policy for General Bimanual Manipulation</a><br/>
@@ -541,8 +544,10 @@
   </li> -->
 
 </ul>
+</details>
 
-<h4>2023</h4>
+<details open>
+  <summary style="font-size: 1.2em; font-weight: bold;">2023</summary>
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2310.08864">Open X-Embodiment: Robotic Learning Datasets and RT-X Models</a><br/>
@@ -626,8 +631,10 @@
   </li> -->
 
 </ul>
+</details>
 
-<h4>2022</h4>
+<details open>
+  <summary style="font-size: 1.2em; font-weight: bold;">2022</summary>
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2211.14652">Learning Bimanual Scooping Policies for Food Acquisition</a><br/>
@@ -687,8 +694,10 @@
     <code><em>arXiv</em></code> <code><em>xx/2024</em></code> | <a href="https://">Website</a><br/>
   </li> -->
 </ul>
+</details>
 
-<h4>2021</h4>
+<details open>
+  <summary style="font-size: 1.2em; font-weight: bold;">2021</summary>
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2111.05623">FabricFlowNet: Bimanual Cloth Manipulation with a Flow-based Policy</a><br/>
@@ -721,6 +730,7 @@
   </li> -->
 </ul>
 
+</details>
 <hr/>
 
 <h2 id="wbcd-datasetbenchmark">📊 5. WBCD - Dataset & Benchmark</h2>
@@ -729,7 +739,8 @@
   <strong>🚧 TODO:</strong> Currently listed in reverse chronological order by year; further categorization is in progress.
 </p>
 
-<h4>2025</h4>
+<details open>
+  <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
 <!-- <ul>
   <li>
     <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
@@ -737,7 +748,9 @@
   </li>
 </ul> -->
 
-<h4>2024</h4>
+</details>
+
+<!-- <h4>2024</h4> -->
 <!-- <ul>
   <li>
     <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
@@ -745,7 +758,7 @@
   </li>
 </ul> -->
 
-<h4>2023</h4>
+<!-- <h4>2023</h4> -->
 <!-- <ul>
   <li>
     <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
@@ -753,7 +766,7 @@
   </li>
 </ul> -->
 
-<h4>2022</h4>
+<!-- <h4>2022</h4> -->
 <!-- <ul>
   <li>
     <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
@@ -761,7 +774,7 @@
   </li>
 </ul> -->
 
-<h4>2021</h4>
+<!-- <h4>2021</h4> -->
 <!-- <ul>
   <li>
     <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
@@ -774,7 +787,7 @@
 <h2 id="wbcd-simulator">🧪 6. WBCD - Simulator</h2>
 
 <details open>
-  <summary style="font-size: 1em; font-weight: bold;">2025</summary>
+  <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
   <ul>
     <li>
       <a href="https://arxiv.org/abs/2505.11032">DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy</a><br/>
@@ -795,13 +808,15 @@
   </ul>
 </details>
 
-<h4>2024</h4>
+<details open>
+  <summary style="font-size: 1.2em; font-weight: bold;">2024</summary>
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2411.01200">GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation</a><br/>
     <code><em>NeurIPS 2024</em></code> <code><em>11/2024</em></code> | <a href="https://garmentlab.github.io/">Website</a><br/>
   </li>
 </ul>
+</details>
 
 <hr/>
 
@@ -811,7 +826,8 @@
   <strong>🚧 TODO:</strong> Currently listed in reverse chronological order by year; further classification into lab prototypes vs. commercial/industrial products is in progress.
 </p>
 
-<h4>2025</h4>
+<details open>
+  <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
 <!-- <ul>
   <li>
     <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
@@ -819,6 +835,7 @@
   </li>
 </ul> -->
 
+</details>
 <hr/>
 
 <h2 id="wbcd-datacollection">🕹️ 8. WBCD - Data Collection Solution</h2>
@@ -827,10 +844,13 @@
   <strong>🚧 TODO:</strong> TBD
 </p>
 
-<h4>2025</h4>
+<details open>
+  <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
 <!-- <ul>
   <li>
     <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
     <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
   </li>
 </ul> -->
+
+</details>
