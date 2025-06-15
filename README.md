@@ -128,6 +128,10 @@
     <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://robo-rl.github.io/">Website</a><br/>
   </li>
   <li>
+    <a href="https://arxiv.org/abs/2505.23705">Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better</a><br/>
+    <code><em>Physical Intelligence</em></code> <code><em>05/2025</em></code> | <a href="https://www.physicalintelligence.company/research/knowledge_insulation">Website</a><br/>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2505.24853">DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation</a><br/>
     <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://project-dexmachina.github.io/">Website</a><br/>
   </li>
