@@ -63,10 +63,6 @@
 <hr/>
 
 <h2 id="events">🎟️ 2. Events</h2>
-<p>
-  <strong>🚧 TODO:</strong> Edit challenges and workshops.
-</p>
-
 <ul>
   <li>
     <strong><a href="https://2025.ieee-icra.org/competitions/#wbcd">The 1st What Bimanual Teleoperation and Learning from Demonstration Can Do (WBCD)</a></strong><br/>
@@ -85,11 +81,24 @@
 <hr/>
 
 <h2 id="related-surveys">🗃 3. Related Surveys</h2>
-<p>
-  <strong>🚧 TODO:</strong> Edit related surveys.
-</p>
-
-
+<ul>
+  <li>
+    <a href="https://ieeexplore.ieee.org/document/9849068">Dexterous Manipulation through Imitation Learning: A Survey</a><br/>
+    <code><em>arXiv</em></code> <code><em>04/2025</em></code><br/>
+  </li>
+    <li>
+    <a href="https://arxiv.org/abs/2504.04939">A Taxonomy of Self-Handover</a><br/>
+    <code><em>arXiv</em></code> <code><em>04/2025</em></code><br/>
+  </li>
+  <li>
+    <a href="https://ieeexplore.ieee.org/document/9849068">A Bimanual Manipulation Taxonomy</a><br/>
+    <code><em>IEEE Robotics and Automation Letters</em></code> <code><em>08/2022</em></code><br/>
+  </li>
+  <li>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S092188901200108X">Dual arm manipulation—A survey</a><br/>
+    <code><em>Robotics and Autonomous Systems</em></code> <code><em>10/2012</em></code><br/>
+  </li>
+</ul>
 
 <hr/>
 
@@ -103,23 +112,23 @@
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2506.07339">Real-Time Execution of Action Chunking Flow Policies</a><br/>
-    <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://www.pi.website/research/real_time_chunking">Website</a><br/>
+    <code><em>Physical Intelligence</em></code> <code><em>06/2025</em></code> | <a href="https://www.pi.website/research/real_time_chunking">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2506.06221">BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly</a><br/>
-    <code><em>ICML 2025</em></code> <code><em>06/2025</em></code> | <a href="https://">Website</a><br/>
+    <code><em>ICML 2025</em></code> <code><em>06/2025</em></code> | <a href="https://biassemble.github.io/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2506.06196">Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization</a><br/>
-    <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://www.pi.website/research/real_time_chunking">Website</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>06/2025</em></code> | <a href="https://iliad.stanford.edu/publications/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2506.04147">SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL</a><br/>
-    <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://robo-rl.github.io/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2505.24853">DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation</a><br/>
-    <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://project-dexmachina.github.io/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2505.24819">Bi-Manual Joint Camera Calibration and Scene Representation</a><br/>
@@ -135,7 +144,7 @@
   </li>
   <li>
     <a href="https://arxiv.org/abs/2505.13441">GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation</a><br/>
-    <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://abhaybd.github.io/GraspMolmo/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2505.12748">TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation</a><br/>
@@ -763,30 +772,28 @@
 <hr/>
 
 <h2 id="wbcd-simulator">🧪 6. WBCD - Simulator</h2>
-<p>
-  Includes simulators that support the design, generation, and import of bimanual manipulation tasks.<br/>
-  <strong>🚧 TODO:</strong> Currently listed in reverse chronological order by year.
-</p>
 
-<h4>2025</h4>
-<ul>
-  <li>
-    <a href="https://arxiv.org/abs/2505.11032">DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy</a><br/>
-    <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://wayrise.github.io/DexGarmentLab/">Website</a><br/>
-  </li>
-  <li>
-    <a href="https://arxiv.org/abs/2504.18904">ROBOVERSE: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning</a><br/>
-    <code><em>RSS 2025</em></code> <code><em>04/2025</em></code> | <a href="https://roboverseorg.github.io/">Website</a><br/>
-  </li>
-  <li>
-    <a href="https://arxiv.org/abs/2504.13059">RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins</a><br/>
-    <code><em>CVPR 2025</em></code> <code><em>04/2025</em></code> | <a href="https://robotwin-benchmark.github.io/">Website</a><br/>
-  </li>
-  <li>
-    <a href="https://genesis-embodied-ai.github.io/">GENISIS: A generative world for general-purpose robotics & embodied AI learning. </a><br/>
-    <code><em>GENISIS Team</em></code> <code><em>01/2025</em></code> | <a href="https://genesis-embodied-ai.github.io/">Website</a><br/>
-  </li>
-</ul>
+<details open>
+  <summary style="font-size: 1em; font-weight: bold;">2025</summary>
+  <ul>
+    <li>
+      <a href="https://arxiv.org/abs/2505.11032">DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy</a><br/>
+      <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://wayrise.github.io/DexGarmentLab/">Website</a><br/>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/2504.18904">ROBOVERSE: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning</a><br/>
+      <code><em>RSS 2025</em></code> <code><em>04/2025</em></code> | <a href="https://roboverseorg.github.io/">Website</a><br/>
+    </li>
+    <li>
+      <a href="https://arxiv.org/abs/2504.13059">RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins</a><br/>
+      <code><em>CVPR 2025</em></code> <code><em>04/2025</em></code> | <a href="https://robotwin-benchmark.github.io/">Website</a><br/>
+    </li>
+    <li>
+      <a href="https://genesis-embodied-ai.github.io/">GENISIS: A generative world for general-purpose robotics & embodied AI learning. </a><br/>
+      <code><em>GENISIS Team</em></code> <code><em>01/2025</em></code> | <a href="https://genesis-embodied-ai.github.io/">Website</a><br/>
+    </li>
+  </ul>
+</details>
 
 <h4>2024</h4>
 <ul>
