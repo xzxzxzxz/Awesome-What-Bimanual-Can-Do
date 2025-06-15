@@ -253,7 +253,7 @@
   </li>
   <li>
     <a href="https://arxiv.org/abs/2502.03822">Dynamic Rank Adjustment in Diffusion Policies for Efficient and Flexible Training</a><br/>
-    <code><em>arXiv</em></code> <code><em>02/2025</em></code> | <a href="https://apollo-lab-yale.github.io/25-RSS-DRIFT-website/">Website</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>02/2025</em></code> | <a href="https://apollo-lab-yale.github.io/25-RSS-DRIFT-website/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2502.16932">DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning</a><br/>
