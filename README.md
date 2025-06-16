@@ -151,6 +151,10 @@
     <a href="https://arxiv.org/abs/2505.13667">Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation</a><br/>
     <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
+    <li>
+    <a href="https://arxiv.org/abs/2505.02291">Dexterous Contact-Rich Manipulation via the Contact Trust Region</a><br/>
+    <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://ctr.theaiinstitute.com/">Website</a><br/>
+  </li>
   <li>
     <a href="https://arxiv.org/abs/2505.13441">GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation</a><br/>
     <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://abhaybd.github.io/GraspMolmo/">Website</a><br/>
@@ -194,6 +198,10 @@
   <li>
     <a href="https://arxiv.org/abs/2504.13059">RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins</a><br/>
     <code><em>CVPR 2025</em></code> <code><em>04/2025</em></code> | <a href="https://robotwin-benchmark.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2411.18913">Planning Shorter Paths in Graphs of Convex Sets by Undistorting Parametrized Configuration Spaces</a><br/>
+    <code><em>RAL 2025</em></code> <code><em>04/2025</em></code> | <a href="https://shrutigarg914.github.io/pgd-gcs-results/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2503.20020">Gemini Robotics: Bringing AI into the Physical World</a><br/>
@@ -254,6 +262,10 @@
   <li>
     <a href="https://arxiv.org/abs/2503.05652">BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities</a><br/>
     <code><em>arXiv</em></code> <code><em>03/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+   <li>
+    <a href="https://arxiv.org/abs/2502.20382?">Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization</a><br/>
+    <code><em>arXiv</em></code> <code><em>02/2025</em></code> | <a href="https://lujieyang.github.io/physicsgen/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2502.03822">Dynamic Rank Adjustment in Diffusion Policies for Efficient and Flexible Training</a><br/>
@@ -339,6 +351,10 @@
     <code><em>arXiv</em></code> <code><em>11/2024</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
+    <a href="https://arxiv.org/abs/2411.02214">DexHub and DART: Towards Internet Scale Robot Data Collection</a><br/>
+    <code><em>arXiv</em></code> <code><em>11/2024</em></code> | <a href="https://dexhub.ai/project">Website</a><br/>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2411.06542">Is Linear Feedback on Smoothed Dynamics Sufficient for Stabilizing Contact-Rich Plans?</a><br/>
     <code><em>ICRA 2025</em></code> <code><em>11/2024</em></code> | <a href="https://">Website</a><br/>
   </li>
@@ -415,7 +431,11 @@
     <code><em>arXiv</em></code> <code><em>09/2024</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
-    <a href="https://arxiv.org/abs/2409.14411">Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulationper_Title</a><br/>
+    <a href="https://arxiv.org/abs/2409.14615">A Comparative Study on State-Action Spaces for Learning Viewpoint Selection and Manipulation with Diffusion Policy</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2024</em></code> | <a href="https://apollo-lab-yale.github.io/spaces_comparative_study/">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2409.14411">Scaling Diffusion Policy in Transformer to 1 Billion Parameters for Robotic Manipulation</a><br/>
     <code><em>arXiv</em></code> <code><em>09/2024</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
@@ -535,6 +555,10 @@
     <code><em>arXiv</em></code> <code><em>02/2024</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
+    <a href="https://arxiv.org/abs/2310.16603">Certifying Bimanual RRT Motion Plans in a Second</a><br/>
+    <code><em>ICRA 2024</em></code> <code><em>02/2024</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2402.10329">Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots</a><br/>
     <code><em>RSS 2024</em></code> <code><em>02/2024</em></code> | <a href="https://umi-gripper.github.io">Website</a><br/>
   </li>
@@ -561,6 +585,10 @@
 <details open>
   <summary style="font-size: 1.2em; font-weight: bold;">2023</summary>
 <ul>
+  <li>
+    <a href="https://www.science.org/doi/10.1126/scirobotics.adf7843">Motion Planning Around Obstacles With Convex Optimization</a><br/>
+    <code><em>Science Robotics 2023</em></code> <code><em>11/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
   <li>
     <a href="https://arxiv.org/abs/2310.08864">Open X-Embodiment: Robotic Learning Datasets and RT-X Models</a><br/>
     <code><em>ICRA 2023</em></code> <code><em>10/2023</em></code> | <a href="https://robotics-transformer-x.github.io">Website</a><br/>
@@ -617,13 +645,21 @@
     <a href="https://arxiv.org/abs/2305.06341">Non-Euclidean Motion Planning with Graphs of Geodesically-Convex Sets</a><br/>
     <code><em>RSS 2023</em></code> <code><em>05/2023</em></code> | <a href="https://ggcs-anonymous-submission.github.io/">Website</a><br/>
   </li>
+    <li>
+    <a href="https://arxiv.org/abs/2210.15185">SAM-RL: Sensing-Aware Model-Based Reinforcement Learning via Differentiable Physics-Based Simulation and Rendering</a><br/>
+    <code><em>RSS 2023</em></code> <code><em>05/2023</em></code> | <a href="https://sites.google.com/view/rss-sam-rl">Website</a><br/>
+  </li>
   <li>
     <a href="https://arxiv.org/abs/2305.04449">DeformerNet: Learning Bimanual Manipulation of 3D Deformable Objects</a><br/>
     <code><em>arXiv</em></code> <code><em>05/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2304.13705">Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware</a><br/>
-    <code><em>arXiv</em></code> <code><em>04/2023</em></code> | <a href="https://tonyzhaozh.github.io/aloha/">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>04/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2302.12219">Certified Polyhedral Decompositions of Collision-Free Configuration Space</a><br/>
+    <code><em>IJRR 2023</em></code> <code><em>04/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2303.08975">HANDLOOM: Learned Tracing of One-Dimensional Objects for Inspection and Manipulation</a><br/>
@@ -632,6 +668,10 @@
   <li>
     <a href="https://arxiv.org/abs/2302.12219">Certified Polyhedral Decompositions of Collision-Free Configuration Space</a><br/>
     <code><em>arXiv</em></code> <code><em>02/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2206.10787">Global Planning for Contact-Rich Manipulation via Local Smoothing of Quasi-dynamic Contact Models</a><br/>
+    <code><em>TRO 2023</em></code> <code><em>02/2023</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2302.00741">Haptic Feedback of Tool Vibrations Facilitates Telerobotic Construction</a><br/>
