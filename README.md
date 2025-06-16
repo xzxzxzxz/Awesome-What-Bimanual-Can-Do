@@ -264,7 +264,7 @@
     <code><em>arXiv</em></code> <code><em>03/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
    <li>
-    <a href="https://arxiv.org/abs/2502.20382?">Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization</a><br/>
+    <a href="https://arxiv.org/abs/2502.20382">Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization</a><br/>
     <code><em>arXiv</em></code> <code><em>02/2025</em></code> | <a href="https://lujieyang.github.io/physicsgen/">Website</a><br/>
   </li>
   <li>
@@ -655,7 +655,7 @@
   </li>
   <li>
     <a href="https://arxiv.org/abs/2304.13705">Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware</a><br/>
-    <code><em>arXiv</em></code> <code><em>04/2023</em></code> | <a href="https://">Website</a><br/>
+    <code><em>arXiv</em></code> <code><em>04/2023</em></code> | <a href="https://tonyzhaozh.github.io/aloha/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2302.12219">Certified Polyhedral Decompositions of Collision-Free Configuration Space</a><br/>
