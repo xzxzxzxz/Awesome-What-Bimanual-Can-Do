@@ -882,10 +882,10 @@
   <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
 <ul>
   <li>
-    <a href="https://arxiv.org/abs/2411.01200">XLeRobot: Fully Autonomous Household Dual-Arm Mobile Robot for $998</a><br/>
+    <a href="https://github.com/Vector-Wangel/XLeRobot">XLeRobot: Fully Autonomous Household Dual-Arm Mobile Robot for $998</a><br/>
     <code><em>XLeRobot Team</em></code> <code><em>04/2025</em></code> | <a href="https://github.com/Vector-Wangel/XLeRobot">Website</a><br/>
   </li>
-  
+
 </ul>
 
 </details>
