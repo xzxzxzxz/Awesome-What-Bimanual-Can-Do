@@ -208,6 +208,10 @@
     <code><em>Google Deepmind</em></code> <code><em>03/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
+    <a href="https://arxiv.org/abs/2503.15368v1">Online Imitation Learning for Manipulation via Decaying Relative Correction through Teleoperation</a><br/>
+    <code><em>arXiv</em></code> <code><em>03/2025</em></code> | <a href="https://www.youtube.com/watch?v=EkNgnSwrXFY">Website</a><br/>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2503.23271">Learning Coordinated Bimanual Manipulation Policies using State Diffusion and Inverse Dynamics Models</a><br/>
     <code><em>ICRA 2025</em></code> <code><em>03/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
@@ -881,6 +885,10 @@
 <details open>
   <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
 <ul>
+  <li>
+    <a href="https://arxiv.org/abs/2504.01554">Cafes: Cable-driven collaborative floating end-effectors for agriculture applications</a><br/>
+    <code><em>1st WBCD - Second Prize Award</em></code> <code><em>04/2025</em></code> | <a href="https://www.youtube.com/watch?v=3R5OOFwtzek">Video</a><br/>
+  </li>
   <li>
     <a href="https://github.com/Vector-Wangel/XLeRobot">XLeRobot: Fully Autonomous Household Dual-Arm Mobile Robot for $998</a><br/>
     <code><em>XLeRobot Team</em></code> <code><em>04/2025</em></code> | <a href="https://github.com/Vector-Wangel/XLeRobot">Website</a><br/>
