@@ -124,6 +124,10 @@
     <code><em>RSS 2025</em></code> <code><em>06/2025</em></code> | <a href="https://iliad.stanford.edu/publications/">Website</a><br/>
   </li>
   <li>
+    <a href="https://openreview.net/forum?id=qQZUkpAYKX">MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation</a><br/>
+    <code><em>RSS WS 2025</em></code> <code><em>06/2025</em></code> | <a href="https://momagen.github.io/">Website</a><br/>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2506.04147">SLAC: Simulation-Pretrained Latent Action Space for Whole-Body Real-World RL</a><br/>
     <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://robo-rl.github.io/">Website</a><br/>
   </li>
@@ -222,6 +226,10 @@
   <li>
     <a href="https://arxiv.org/abs/2503.13916">Learning Bimanual Manipulation via Action Chunking and Inter-Arm Coordination with Transformers</a><br/>
     <code><em>arXiv</em></code> <code><em>03/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10907314">A Bimanual Teleoperation System of Humanoid Robots for Dexterous Manipulation</a><br/>
+    <code><em>ROBIO 2025</em></code> <code><em>03/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2503.12725">Humanoids in Hospitals: A Technical Study of Humanoid Surrogates for Dexterous Medical Interventions</a><br/>
@@ -443,6 +451,10 @@
     <code><em>CoRL 2024</em></code> <code><em>07/2024</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
+    <a href="https://arxiv.org/abs/2407.01479">EquiBot: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning</a><br/>
+    <code><em>CoRL 2024</em></code> <code><em>07/2024</em></code> | <a href="https://equi-bot.github.io/">Website</a><br/>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2407.03162">Bunny-VisionPro: Real-Time Bimanual Dexterous Teleoperation for Imitation Learning</a><br/>
     <code><em>arXiv</em></code> <code><em>07/2024</em></code> | <a href="https://dingry.github.io/projects/bunny_visionpro.html">Website</a><br/>
   </li>
@@ -558,6 +570,10 @@
   <summary style="font-size: 1.2em; font-weight: bold;">2023</summary>
 <ul>
   <li>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10343126">Bi-DexHands: Towards Human-Level Bimanual Dexterous Manipulation</a><br/>
+    <code><em>TPAMI 2023</em></code> <code><em>12/2023</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2310.08864">Open X-Embodiment: Robotic Learning Datasets and RT-X Models</a><br/>
     <code><em>ICRA 2023</em></code> <code><em>10/2023</em></code> | <a href="https://robotics-transformer-x.github.io">Website</a><br/>
   </li>
@@ -588,6 +604,10 @@
   <li>
     <a href="https://arxiv.org/abs/2307.14326">Waypoint-Based Imitation Learning for Robotic Manipulation</a><br/>
     <code><em>arXiv</em></code> <code><em>07/2023</em></code> | <a href="https://lucys0.github.io/awe/">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10160739">Efficient Bimanual Handover and Rearrangement via Symmetry-Aware Actor-Critic Learning</a><br/>
+    <code><em>ICRA 2023</em></code> <code><em>07/2023</em></code> | <a href="https://sites.google.com/view/bimanual">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2307.06423">Bi-Touch: Bimanual Tactile Manipulation with Sim-to-Real Deep Reinforcement Learning</a><br/>
