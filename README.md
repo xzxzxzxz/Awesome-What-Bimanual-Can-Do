@@ -21,7 +21,7 @@
 
 <strong>Media Coverage (CN): <a href="https://mp.weixin.qq.com/s/SqlE_TpMyzCj3Us1R3L4NA">甲子光年</a> | <a href="https://mp.weixin.qq.com/s/GwJiwAKvZb0K-uHy2_rzBQ">36氪</a> | <a href="https://mp.weixin.qq.com/s/H26K-brCRXqNVZ-BScoC-g">机器之心</a> | <a href="https://mp.weixin.qq.com/s/Y-9wZm2Rwr_gLEelUgV39A">量子位</a></strong>
 
-<!-- <strong>Sponsers Highlight: <a href="https://">Galaxea 星海图</a>(Track#1) | <a href="https://">AgileX 松灵机器人</a>(Track#2) | <a href="https://">ARX 方舟无限</a>(Track#3)</strong> -->
+<strong>Hardware Sponser's Highlight: <a href="https://">Galaxea 星海图</a>(Track#1) | <a href="https://">AgileX 松灵机器人</a>(Track#2) | <a href="https://">ARX 方舟无限</a>(Track#3)</strong>
 
 </h5>
 
@@ -115,6 +115,14 @@
 <details open>
   <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
 <ul>
+  <li>
+    <a href="https://arxiv.org/abs/2506.15666">Vision in Action: Learning Active Perception from Human Demonstrations</a><br/>
+    <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://vision-in-action.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2506.18088">RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://robotwin-platform.github.io/">Website</a><br/>
+  </li>
   <li>
     <a href="https://arxiv.org/abs/2506.07339">Real-Time Execution of Action Chunking Flow Policies</a><br/>
     <code><em>Physical Intelligence</em></code> <code><em>06/2025</em></code> | <a href="https://www.pi.website/research/real_time_chunking">Website</a><br/>
@@ -521,6 +529,10 @@
   <li>
     <a href="https://arxiv.org/abs/2405.06903">UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence</a><br/>
     <code><em>CVPR 2024</em></code> <code><em>05/2024</em></code> | <a href="https://warshallrho.github.io/unigarmentmanip">Website</a><br/>
+  </li>
+  <li>
+    <a href="[https://arxiv.org/abs/2506.07339](https://arxiv.org/abs/2404.03570)">Embodied AI with Two Arms: Zero-shot Learning, Safety and Modularity</a><br/>
+    <code><em>IROS 2024</em></code> <code><em>04/2024</em></code> | <a href="https://sites.google.com/corp/view/safe-robots">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2404.16823">HATO: Learning Visuotactile Skills with Two Multifingered Hands</a><br/>
