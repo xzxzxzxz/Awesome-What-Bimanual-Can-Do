@@ -50,19 +50,18 @@
 
 <h2 id="vision">😶‍🌫️ 0. Our Vision</h2>
 <p>
-  <strong>🚧 TODO:</strong> Edit our vision.
+In recent years, the field of bimanual teleoperation and learning from demonstration (LfD) has witnessed remarkable progress, driven by innovations in human sensing technologies and diverse robotic embodiments. Systems like ALOHA, Mobile ALOHA, DexCap, Open-TeleVision, HATO, GELLO, AirExo, and UMI have demonstrated the potential of combining intuitive control interfaces with data-driven learning techniques to enable dexterous, human-like robot manipulation.
+
+However, much of the existing research has been conducted in isolated settings, with researchers designing their own tasks and evaluating their own systems. Key industrial concerns such as motion efficiency, system robustness, cost-effectiveness, and the ease of learning deployable policies—have often been overlooked in academic benchmarks.
+
+To bridge this gap between research and real-world impact, we launched the ICRA 2025 WBCD Competition. The competition aimed to create a shared platform where the community could evaluate technologies on a common set of challenging, practical, and industry-relevant tasks, using diverse human-sensing and teleoperation methods (e.g., VR, puppeteering, exoskeletons, hand-held grippers, gloves and more).
+
+This awesome list is a continuation of that effort. Our vision is to curate, consolidate, and continuously update the most impactful work in the field from the past five years—covering algorithms, datasets, simulators, and hardware systems—and to foster collaboration across academia and industry toward building practical, generalizable bimanual manipulation.
 </p>
 
 <hr/>
 
-<h2 id="news">🔥 1. News</h2>
-<p>
-  <strong>🚧 TODO:</strong> Edit news.
-</p>
-
-<hr/>
-
-<h2 id="events">🎟️ 2. Events</h2>
+<h2 id="events">🎟️ 1. Events</h2>
 <ul>
   <li>
     <strong><a href="https://2025.ieee-icra.org/competitions/#wbcd">The 1st What Bimanual Teleoperation and Learning from Demonstration Can Do (WBCD)</a></strong><br/>
@@ -80,7 +79,7 @@
 
 <hr/>
 
-<h2 id="related-surveys">🗃 3. Related Surveys</h2>
+<h2 id="related-surveys">🗃 2. Related Surveys</h2>
 <ul>
   <li>
     <a href="https://arxiv.org/abs/2505.04769">Vision-Language-Action Models: Concepts, Progress, Applications and Challenges</a><br/>
@@ -106,7 +105,7 @@
 
 <hr/>
 
-<h2 id="wbcd-technical">📑 4. WBCD - Technical Paper List</h2>
+<h2 id="wbcd-technical">📑 3. WBCD - Technical Paper List</h2>
 <p>
   Includes accepted and arXiv technical papers on bimanual manipulation.<br/>
   <strong>🚧 TODO:</strong> Currently listed in reverse chronological order by year; further categorization by <strong>algorithmic approach</strong> and <strong>end-effector</strong> type is in progress.
@@ -821,7 +820,7 @@
 </details>
 <hr/>
 
-<h2 id="wbcd-datasetbenchmark">📊 5. WBCD - Dataset & Benchmark</h2>
+<h2 id="wbcd-datasetbenchmark">📊 4. WBCD - Dataset & Benchmark</h2>
 <p>
   Includes existing datasets and benchmarks that support bimanual manipulation.<br/>
   <strong>🚧 TODO:</strong> Currently listed in reverse chronological order by year; further categorization is in progress.
@@ -872,7 +871,7 @@
 
 <hr/>
 
-<h2 id="wbcd-simulator">🧪 6. WBCD - Simulator</h2>
+<h2 id="wbcd-simulator">🧪 5. WBCD - Simulator</h2>
 
 <details open>
   <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
@@ -908,7 +907,7 @@
 
 <hr/>
 
-<h2 id="wbcd-hardware">🤖 7. WBCD - Hardware</h2>
+<h2 id="wbcd-hardware">🤖 6. WBCD - Hardware</h2>
 <p>
   Includes hardware systems designed for bimanual manipulation tasks.<br/>
   <strong>🚧 TODO:</strong> Currently listed in reverse chronological order by year; further classification into lab prototypes vs. commercial/industrial products is in progress.
@@ -931,7 +930,7 @@
 </details>
 <hr/>
 
-<h2 id="wbcd-datacollection">🕹️ 8. WBCD - Data Collection Solution</h2>
+<h2 id="wbcd-datacollection">🕹️ 7. WBCD - Data Collection Solution</h2>
 <p>
   Includes various data collection setups and methods for bimanual manipulation tasks.<br/>
   <strong>🚧 TODO:</strong> TBD
