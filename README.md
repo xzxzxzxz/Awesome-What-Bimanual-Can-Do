@@ -86,7 +86,7 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
     <code><em>arXiv</em></code> <code><em>05/2025</em></code><br/>
   </li> 
   <li>
-    <a href="https://ieeexplore.ieee.org/document/9849068">Dexterous Manipulation through Imitation Learning: A Survey</a><br/>
+    <a href="https://arxiv.org/abs/2504.03515">Dexterous Manipulation through Imitation Learning: A Survey</a><br/>
     <code><em>arXiv</em></code> <code><em>04/2025</em></code><br/>
   </li>
   <li>
@@ -147,6 +147,10 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
     <code><em>Physical Intelligence</em></code> <code><em>05/2025</em></code> | <a href="https://www.physicalintelligence.company/research/knowledge_insulation">Website</a><br/>
   </li>
   <li>
+    <a href="https://arxiv.org/abs/2505.07813">DexWild: Dexterous Human Interactions for In-the-Wild Robot Policies</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>05/2025</em></code> | <a href="https://dexwild.github.io/">Website</a><br/>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2505.24853">DexMachina: Functional Retargeting for Bimanual Dexterous Manipulation</a><br/>
     <code><em>arXiv</em></code> <code><em>05/2025</em></code> | <a href="https://project-dexmachina.github.io/">Website</a><br/>
   </li>
@@ -204,7 +208,7 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
   </li>
   <li>
     <a href="https://arxiv.org/abs/2504.17784">Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation</a><br/>
-    <code><em>RSS 2025</em></code> <code><em>04/2025</em></code> | <a href="https://">Website</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>04/2025</em></code> | <a href="https://yuyinyang3y.github.io/PPI/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2504.13059">RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins</a><br/>
@@ -215,12 +219,36 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
     <code><em>RAL 2025</em></code> <code><em>04/2025</em></code> | <a href="https://shrutigarg914.github.io/pgd-gcs-results/">Website</a><br/>
   </li>
   <li>
+    <a href="https://arxiv.org/abs/2504.20359">PRISM-DP: Spatial Pose-based Observations for Diffusion-Policies via Segmentation, Mesh Generation, and Pose Tracking</a><br/>
+    <code><em>arXiv</em></code> <code><em>04/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
     <a href="https://arxiv.org/abs/2503.20020">Gemini Robotics: Bringing AI into the Physical World</a><br/>
     <code><em>Google Deepmind</em></code> <code><em>03/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2503.15368v1">Online Imitation Learning for Manipulation via Decaying Relative Correction through Teleoperation</a><br/>
     <code><em>arXiv</em></code> <code><em>03/2025</em></code> | <a href="https://www.youtube.com/watch?v=EkNgnSwrXFY">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2503.03707">Curating Demonstrations using Online Experience</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>03/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2503.08558">Can We Detect Failures Without Failure Data? Uncertainty-Aware Runtime Failure Detection for Imitation Learning Policies</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>03/2025</em></code> | <a href="https://cxu-tri.github.io/FAIL-Detect-Website/">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2503.24361">Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>03/2025</em></code> | <a href="https://co-training.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2503.02881">Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>03/2025</em></code> | <a href="https://reactive-diffusion-policy.github.io/">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2503.10966v4">Is Your Imitation Learning Policy Better than Mine? Policy Comparison with Near-Optimal Stopping</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>03/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2503.23271">Learning Coordinated Bimanual Manipulation Policies using State Diffusion and Inverse Dynamics Models</a><br/>
@@ -282,9 +310,9 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
     <a href="https://arxiv.org/abs/2503.05652">BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities</a><br/>
     <code><em>arXiv</em></code> <code><em>03/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
-   <li>
+  <li>
     <a href="https://arxiv.org/abs/2502.20382">Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization</a><br/>
-    <code><em>arXiv</em></code> <code><em>02/2025</em></code> | <a href="https://lujieyang.github.io/physicsgen/">Website</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>02/2025</em></code> | <a href="https://lujieyang.github.io/physicsgen/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2502.03822">Dynamic Rank Adjustment in Diffusion Policies for Efficient and Flexible Training</a><br/>
@@ -292,7 +320,11 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
   </li>
   <li>
     <a href="https://arxiv.org/abs/2502.16932">DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning</a><br/>
-    <code><em>arXiv</em></code> <code><em>02/2025</em></code> | <a href="https://">Website</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>02/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2502.17432">FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning</a><br/>
+    <code><em>RSS 2025</em></code> <code><em>02/2025</em></code> | <a href="https://jasonjzliu.com/factr/">Website</a><br/>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2502.16908">A low-cost and lightweight 6 DoF bimanual arm for dynamic and contact-rich manipulation</a><br/>
