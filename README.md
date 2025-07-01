@@ -310,10 +310,6 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
     <a href="https://arxiv.org/abs/2503.05652">BEHAVIOR Robot Suite: Streamlining Real-World Whole-Body Manipulation for Everyday Household Activities</a><br/>
     <code><em>arXiv</em></code> <code><em>03/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
-   <li>
-    <a href="https://arxiv.org/abs/2502.20382">Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization</a><br/>
-    <code><em>arXiv</em></code> <code><em>02/2025</em></code> | <a href="https://lujieyang.github.io/physicsgen/">Website</a><br/>
-  </li>
   <li>
     <a href="https://arxiv.org/abs/2502.20382">Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization</a><br/>
     <code><em>RSS 2025</em></code> <code><em>02/2025</em></code> | <a href="https://lujieyang.github.io/physicsgen/">Website</a><br/>
