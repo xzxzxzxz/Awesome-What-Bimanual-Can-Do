@@ -86,7 +86,7 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
     <code><em>arXiv</em></code> <code><em>05/2025</em></code><br/>
   </li> 
   <li>
-    <a href="https://ieeexplore.ieee.org/document/9849068">Dexterous Manipulation through Imitation Learning: A Survey</a><br/>
+    <a href="https://arxiv.org/abs/2504.03515">Dexterous Manipulation through Imitation Learning: A Survey</a><br/>
     <code><em>arXiv</em></code> <code><em>04/2025</em></code><br/>
   </li>
   <li>
