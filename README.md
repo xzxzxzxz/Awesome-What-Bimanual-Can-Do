@@ -21,7 +21,7 @@
 
 <strong>Media Coverage (CN): <a href="https://mp.weixin.qq.com/s/SqlE_TpMyzCj3Us1R3L4NA">甲子光年</a> | <a href="https://mp.weixin.qq.com/s/GwJiwAKvZb0K-uHy2_rzBQ">36氪</a> | <a href="https://mp.weixin.qq.com/s/H26K-brCRXqNVZ-BScoC-g">机器之心</a> | <a href="https://mp.weixin.qq.com/s/Y-9wZm2Rwr_gLEelUgV39A">量子位</a></strong>
 
-<strong>Hardware Sponser's Highlight: <a href="https://">Galaxea 星海图</a>(Track#1) | <a href="https://">AgileX 松灵机器人</a>(Track#2) | <a href="https://">ARX 方舟无限</a>(Track#3)</strong>
+<strong>Hardware Sponser's Highlight: <a href="https://galaxea-ai.com/cn">Galaxea 星海图</a>(Track#1) | <a href="https://global.agilex.ai/">AgileX 松灵机器人</a>(Track#2) | <a href="https://www.arx-x.com/">ARX 方舟无限</a>(Track#3)</strong>
 
 </h5>
 
@@ -114,6 +114,22 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
 <details open>
   <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
 <ul>
+  <li>
+    <a href="https://arxiv.org/abs/2507.00833">HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2507.00435">RoboEval: Where Robotic Manipulation Meets Structured and Scalable Evaluation</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2506.19842">ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model</a><br/>
+    <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2506.18825">SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives</a><br/>
+    <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
   <li>
     <a href="https://arxiv.org/abs/2506.15666">Vision in Action: Learning Active Perception from Human Demonstrations</a><br/>
     <code><em>arXiv</em></code> <code><em>06/2025</em></code> | <a href="https://vision-in-action.github.io/">Website</a><br/>
