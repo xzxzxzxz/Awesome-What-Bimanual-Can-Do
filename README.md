@@ -67,13 +67,13 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
     <strong><a href="https://2025.ieee-icra.org/competitions/#wbcd">The 1st What Bimanual Teleoperation and Learning from Demonstration Can Do (WBCD)</a></strong><br/>
     <code><em>🏆 Challenge</em></code> <code><em>ICRA 2025, Atlanta, USA</em></code> | <a href="https://wbcdcompetition.github.io/">Website</a><br/>
   </li>
-  <li>
+  <!-- <li>
     <strong><a href="https://">The 1st What Bimanual Teleoperation and Learning from Demonstration Can Do (WBCD)</a></strong><br/>
     <code><em>🥂 Workshop</em></code> <code><em>TBD 2025</em></code> | <a href="https://wbcdcompetition.github.io/">Website</a><br/>
-  </li>
+  </li> -->
   <li>
-    <strong><a href="https://">The 2nd What Bimanual Teleoperation and Learning from Demonstration Can Do (WBCD)</a></strong><br/>
-    <code><em>🏆 Challenge</em></code> <code><em>TBD 2026</em></code> | <a href="https://wbcdcompetition.github.io/">Website</a><br/>
+    <strong><a href="https://2026.ieee-icra.org/">The 2nd What Bimanual Teleoperation and Learning from Demonstration Can Do (WBCD)</a></strong><br/>
+    <code><em>🏆 Challenge</em></code> <code><em>ICRA 2026, Vienna, Austria</em></code> | <a href="https://wbcdcompetition.github.io/">Website</a><br/>
   </li>
 </ul>
 
@@ -114,6 +114,146 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
 <details open>
   <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
 <ul>
+  <li>
+  <a href="https://arxiv.org/abs/2510.25754">GET-USE: Learning Generalized Tool Usage for Bimanual Mobile Manipulation via Simulated Embodiment Extensions</a><br/>
+    <code><em>arXiv</em></code> <code><em>10/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2510.25634">Learning to Plan & Schedule with Reinforcement-Learned Bimanual Robot Skills</a><br/>
+    <code><em>arXiv</em></code> <code><em>10/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2510.23016">ManiDP: Manipulability-Aware Diffusion Policy for Posture-Dependent Bimanual Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>10/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2510.20813">GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>10/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2510.18316">MoMaGen: Generating Demonstrations under Soft and Hard Constraints for Multi-Step Bimanual Mobile Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>10/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2510.14647">Spatially anchored Tactile Awareness for Robust Dexterous Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>10/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2510.08475">DexMan: Learning Bimanual Dexterous Manipulation from Human and Generated Videos</a><br/>
+    <code><em>arXiv</em></code> <code><em>10/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2510.01607">ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations</a><br/>
+    <code><em>arXiv</em></code> <code><em>10/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2510.01607">ActiveUMI: Robotic Manipulation with Active Perception from Robot-Free Human Demonstrations</a><br/>
+    <code><em>arXiv</em></code> <code><em>10/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2509.21723">VLBiMan: Vision-Language Anchored One-Shot Demonstration Enables Generalizable Bimanual Robotic Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2509.21256">BiNoMaP: Learning Category-Level Bimanual Non-Prehensile Manipulation Primitives</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2509.20579">Large Pre-Trained Models for Bimanual Manipulation in 3D</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/pdf/2509.19626">EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2509.19454">ROPA: Synthetic Robot Pose Generation for RGB-D Bimanual Data Augmentation</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2509.19261">Imitation-Guided Bimanual Planning for Stable Manipulation under Changing External Forces</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/pdf/2509.19142">BiGraspFormer: End-to-End Bimanual Grasp Transformer</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2509.15953">Right-Side-Out: Learning Zero-Shot Sim-to-Real Garment Reversal</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2509.13903">PhysicalAgent: Towards General Cognitive Robotics with Foundation World Models</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2509.01819">ManiFlow: A General Robot Manipulation Policy via Consistency Flow Training</a><br/>
+    <code><em>arXiv</em></code> <code><em>09/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2508.21063">Prompt-to-Product: Generative Assembly via Bimanual Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>08/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/pdf/2508.20085">HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>08/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2508.18268">SafeBimanual: Diffusion-based Trajectory Optimization for Safe Bimanual Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>08/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2508.14542">Taming VR Teleoperation and Learning from Demonstration for Multi-Task Bimanual Table Service Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>08/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2508.11002">3D FlowMatch Actor: Unified 3D Policy for Single- and Dual-Arm Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>08/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2508.09976">Masquerade: Learning from In-the-wild Human Videos using Data-Editing</a><br/>
+    <code><em>arXiv</em></code> <code><em>08/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2508.09606">BEAVR: Bimanual, multi-Embodiment, Accessible, Virtual Reality Teleoperation System for Robots</a><br/>
+    <code><em>arXiv</em></code> <code><em>08/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2508.05342">Information-Theoretic Graph Fusion with Vision-Language-Action Model for Policy Reasoning and Dual Robotic Control</a><br/>
+    <code><em>arXiv</em></code> <code><em>08/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2507.23523">H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2507.22380">Improving Generalization Ability of Robotic Imitation Learning by Resolving Causal Confusion in Observations</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2507.19817">Ag2x2: Robust Agent-Agnostic Visual Representations for Zero-Shot Bimanual Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2507.12768">AnyPos: Automated Task-Agnostic Actions for Bimanual Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+    <a href="https://arxiv.org/abs/2507.12440">EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2507.11296">Diffusion-Based Imaginative Coordination for Bimanual Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://openreview.net/forum?id=XjjXLxfPou#discussion">ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/">COMBO-Grasp: Learning Constraint-Based Manipulation for Bimanual Occluded Grasping</a><br/>
+    <code><em>arXiv</em></code> <code><em>07/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
   <li>
     <a href="https://arxiv.org/abs/2507.00833">HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning</a><br/>
     <code><em>arXiv</em></code> <code><em>07/2025</em></code> | <a href="https://">Website</a><br/>
