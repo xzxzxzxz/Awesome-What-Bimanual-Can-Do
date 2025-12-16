@@ -115,6 +115,62 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
   <summary style="font-size: 1.2em; font-weight: bold;">2025</summary>
 <ul>
   <li>
+  <a href="https://arxiv.org/abs/2512.10675">Evaluating Gemini Robotics Policies in a Veo World Simulator</a><br/>
+    <code><em>arXiv</em></code> <code><em>12/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2512.09310">Scene-agnostic Hierarchical Bimanual Task Planning via Visual Affordance Reasoning</a><br/>
+    <code><em>arXiv</em></code> <code><em>12/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/pdf/2512.09297">One-Shot Real-World Demonstration Synthesis for Scalable Bimanual Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>12/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+    <li>
+  <a href="https://arxiv.org/abs/2512.08580">Mind to Hand: Purposeful Robotic Control via Embodied Reasoning</a><br/>
+    <code><em>arXiv</em></code> <code><em>12/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+    <li>
+  <a href="https://arxiv.org/abs/2511.21264">Sampling-Based Optimization with Parallelized Physics Simulator for Bimanual Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>11/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+    <li>
+  <a href="https://arxiv.org/abs/2511.17441">RoboCOIN: An Open-Sourced Bimanual Robotic Data COllection for INtegrated Manipulation</a><br/>
+    <code><em>arXiv</em></code> <code><em>11/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+    <li>
+  <a href="https://arxiv.org/abs/2511.16651">InternData-A1: Pioneering High-Fidelity Synthetic Data for Pre-training Generalist Policy</a><br/>
+    <code><em>arXiv</em></code> <code><em>11/2025</em></code> | <a href="https://internrobotics.github.io/interndata-a1.github.io/">Website</a><br/>
+  </li>
+    <li>
+  <a href="https://arxiv.org/abs/2511.14396">Continuous Vision-Language-Action Co-Learning with Semantic-Physical Alignment for Behavioral Cloning</a><br/>
+    <code><em>arXiv</em></code> <code><em>11/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+    <li>
+  <a href="https://arxiv.org/abs/2511.12390">Learning Adaptive Neural Teleoperation for Humanoid Robots: From Inverse Kinematics to End-to-End Control</a><br/>
+    <code><em>arXiv</em></code> <code><em>11/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+    <li>
+  <a href="https://arxiv.org/abs/2511.05858">ViTaMIn-B: A Reliable and Efficient Visuo-Tactile Bimanual Manipulation Interface</a><br/>
+    <code><em>arXiv</em></code> <code><em>11/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+    <li>
+  <a href="https://arxiv.org/abs/2511.05275">TwinVLA: Data-Efficient Bimanual Manipulation with Twin Single-Arm Vision-Language-Action Models</a><br/>
+    <code><em>arXiv</em></code> <code><em>11/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+    <li>
+  <a href="https://arxiv.org/abs/2511.02832">TWIST2: Scalable, Portable, and Holistic Humanoid Data Collection System</a><br/>
+    <code><em>arXiv</em></code> <code><em>10/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/2511.00153">EgoMI: Learning Active Vision and Whole-Body Manipulation from Egocentric Human Demonstrations</a><br/>
+    <code><em>arXiv</em></code> <code><em>11/2025</em></code> | <a href="https://">Website</a><br/>
+  </li>
+  <li>
+  <a href="https://arxiv.org/abs/">Dexora: Open-Source VLA for High-DoF Bimanual Dexterity</a><br/>
+    <code><em>arXiv</em></code> <code><em>?/2025</em></code> | <a href="https://huggingface.co/datasets/Dexora/Dexora_Real-World_Dataset">Huggingface</a><br/>
+  </li>
+  <li>
   <a href="https://arxiv.org/abs/2510.25754">GET-USE: Learning Generalized Tool Usage for Bimanual Mobile Manipulation via Simulated Embodiment Extensions</a><br/>
     <code><em>arXiv</em></code> <code><em>10/2025</em></code> | <a href="https://">Website</a><br/>
   </li>
@@ -1019,37 +1075,13 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
 <!-- <ul>
   <li>
     <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
-    <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
+    <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/> 
   </li>
 </ul> -->
 
 </details>
 
 <!-- <h4>2024</h4> -->
-<!-- <ul>
-  <li>
-    <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
-    <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
-  </li>
-</ul> -->
-
-<!-- <h4>2023</h4> -->
-<!-- <ul>
-  <li>
-    <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
-    <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
-  </li>
-</ul> -->
-
-<!-- <h4>2022</h4> -->
-<!-- <ul>
-  <li>
-    <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
-    <code><em>ICRA 2025</em></code> | <a href="https://arxiv.org/abs/2401.12345">Website</a><br/>
-  </li>
-</ul> -->
-
-<!-- <h4>2021</h4> -->
 <!-- <ul>
   <li>
     <a href="https://arxiv.org/abs/2401.12345">Dexterous Dual-Arm Manipulation via Demonstration-Augmented Reinforcement Learning</a><br/>
@@ -1107,7 +1139,7 @@ This awesome list is a continuation of that effort. Our vision is to curate, con
   <li>
     <a href="https://arxiv.org/abs/2504.01554">Cafes: Cable-driven collaborative floating end-effectors for agriculture applications</a><br/>
     <code><em>1st WBCD - Second Prize Award</em></code> <code><em>04/2025</em></code> | <a href="https://www.youtube.com/watch?v=3R5OOFwtzek">Video</a><br/>
-  </li>
+  </li>l
   <li>
     <a href="https://github.com/Vector-Wangel/XLeRobot">XLeRobot: Fully Autonomous Household Dual-Arm Mobile Robot for $998</a><br/>
     <code><em>XLeRobot Team</em></code> <code><em>04/2025</em></code> | <a href="https://github.com/Vector-Wangel/XLeRobot">Website</a><br/>
